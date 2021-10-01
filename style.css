@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.home-section{
+    display: flex;
+}
+.content-box{
+    width: 45%;
+    margin: 200px 0px ;
+}
+.image-box{
+    width: 45%;
+    margin: 100px 0px;
+}
+.image-box img{
+    width: 100%;
+}
+.content-box h2{
+        font-family: sans-serif;
+        font-size: 50px;
+    
+}
+.content-box p {
+    font-family: sans-serif;
+    line-height: 24px;
+    margin-top: 23px;
+}
